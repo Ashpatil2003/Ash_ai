@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of hey Ash",
+  "description": "A cutting-edge conversational AI application powered by Gemini 2.5 Native Audio. Experience real-time, low-latency voice interactions with human-like responsiveness and high-fidelity audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
